@@ -1,0 +1,2 @@
+Bonjour à tous ce repository est un projet pour la gestion des absences de l'école HEI.
+Elle s'execute avec Spring boot en back_end et react js en front_ent avec POSTGRESQL et aussi mysql comme Database
